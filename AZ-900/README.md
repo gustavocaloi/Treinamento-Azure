@@ -9,7 +9,7 @@ A versão em inglês deste exame foi atualizada em 5 de maio de 2022. Baixe o gu
 
 ---
 
-###### #1
+###### #1[]
 Uma empresa deseja expandir sua presença na nuvem implantando recursos adicionais no Azure. A empresa planeja usar o modelo baseado em recursos existentes para automatizar o processo de implantação. Garantir uma implantação consistente é fundamental.
 O que a empresa deve usar?
 >Resposta: Gerenciador de recursos do Azure
