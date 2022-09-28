@@ -9,7 +9,7 @@ A versão em inglês deste exame foi atualizada em 5 de maio de 2022. Baixe o gu
 
 ---
 
-###### #1[]
+###### #1
 Uma empresa deseja expandir sua presença na nuvem implantando recursos adicionais no Azure. A empresa planeja usar o modelo baseado em recursos existentes para automatizar o processo de implantação. Garantir uma implantação consistente é fundamental.
 O que a empresa deve usar?
 >Resposta: Gerenciador de recursos do Azure
@@ -20,11 +20,14 @@ O que a empresa deve usar?
 Corresponda cada recurso do Azure com seu cenário de uso.
 para responder, arraste o recurso apropriado para cada cenário. Um recurso pode ser usado uma vez, mais de uma vez ou não ser usado.
 
->Migração rápida do SQL Server do local para o Azure com retenção de acesso ao sistema operacional: SQL Server em VMs do Azure
+Migração rápida do SQL Server do local para o Azure com retenção de acesso ao sistema operacional:
+> SQL Server em VMs do Azure
 
->Banco de dados sem servidor econômico com padrão de uso intermitente e baixa utilização de computação ao longo do tempo: Azure SQL Databace
+Banco de dados sem servidor econômico com padrão de uso intermitente e baixa utilização de computação ao longo do tempo:
+>Azure SQL Databace
 
->Mudança de vida do SQL Server local com alterações mínimas em uma solução Azure Platform-as-a-Service (PaaS): Azure SQL Managed Instance
+Mudança de vida do SQL Server local com alterações mínimas em uma solução Azure Platform-as-a-Service (PaaS): 
+>Azure SQL Managed Instance
 
 ---
 
@@ -37,12 +40,16 @@ Qual é a vantagem de migrar a infraestrutura da sua empresa para o Azure usando
 
 ###### #4
 Para completar a declaração na área de resposta, selecione a opção apropriada no menu suspenso.
->O Azure Advisor integra-se com a ajuda superior do "Microsoft Defender for cloud" para prevenir, detectar e responder a ameaças aos recursos do Azure.
+
+O Azure Advisor integra-se com a ajuda superior do "Microsoft Defender for cloud" para prevenir, detectar e responder a ameaças aos recursos do Azure.
+>"Microsoft Defender for cloud"
 
 ---
 ###### #5
 Para completar a declaração na área de resposta, selecione a opção apropriada no menu suspenso.
->Você usa o Gerenciamento de Custos e Faturamento do Azure para criar relatórios de custo. Para entender os dados em um relatório de custos, a Microsoft recomenda que você implemente "tags".
+
+Você usa o Gerenciamento de Custos e Faturamento do Azure para criar relatórios de custo. Para entender os dados em um relatório de custos, a Microsoft recomenda que você implemente "tags".
+>"tags"
 
 ---
 
@@ -68,16 +75,20 @@ Você está planejando usar o Azure para uma solução de nuvem.
 Você precisa escolher a ferramenta mais adequada para diferentes cenários.
 Quais ferramentas você deve usar? Para responder, arraste a ferramenta apropriada para cada cenário. Uma ferramenta pode ser usada uma vez, mais de uma vez ou não.
 
->Você quer ver quanto pode economizar em cinco anos movendo a infraestrutura da sua empresa para a Nuvem do Azure: calculadora de custo total de propriedade (TCO)
+Você quer ver quanto pode economizar em cinco anos movendo a infraestrutura da sua empresa para a Nuvem do Azure:
+>calculadora de custo total de propriedade (TCO)
 
->Você deseja configurar um alerta para enviar mensagens de texto para você e seu colega de trabalho quando seus Recursos do Azure usarem 90% do orçamento mensal do Azure da sua empresa: Gerenciamento de Custos
+Você deseja configurar um alerta para enviar mensagens de texto para você e seu colega de trabalho quando seus Recursos do Azure usarem 90% do orçamento mensal do Azure da sua empresa:
+>Gerenciamento de Custos
 
->Você deseja estimar o custo de implantação de quatro máquinas virtuais (VMs) e duas instâncias do Banco de Dados SQL no Azure: Calculadora de preços do Azure
+Você deseja estimar o custo de implantação de quatro máquinas virtuais (VMs) e duas instâncias do Banco de Dados SQL no Azure:
+>Calculadora de preços do Azure
 
 ---
 
 ###### #10
 Você precisa comparar os custos de execução de uma carga de trabalho de aplicativo no Azure vesus on-primeses.
+
 O que você deve fazer para garantir que possa usar a calculadora de TCO do Azure para concluir essa tarefa?
 >Defina o servidor, bancos de dados, armazenamento e carga de trabalho de rede.
 
@@ -90,9 +101,8 @@ Qual recurso do Azure pode ser implantado como infraestrutura como serviço (Iaa
 ---
 
 ###### #12
-Os grupos de gerenciamento permitem que você organize vários
->Os grupos de gerenciamento permitem que você organize várias "assinaturas como uma única entidade de gerenciamento para facilitar o gerenciamento".
-
+Os grupos de gerenciamento permitem que você organize várias "assinaturas como uma única entidade de gerenciamento para facilitar o gerenciamento".
+>"assinaturas como uma única entidade de gerenciamento para facilitar o gerenciamento"
 ---
 
 ###### #13
@@ -122,7 +132,7 @@ Você deseja avaliar os Serviços de Aplicativo do Azure por seis meses:
 ---
 
 ###### #16
-Você deseja controlar os usuários que têm permissão para criar redes virtuais (Vnets):
+Você deseja controlar os usuários que têm permissão para criar redes virtuais (VNets):
 >RBAC
 
 Você deseja revisar as recomendações de segurança relacionadas aos seus recursos implantados:
@@ -202,8 +212,9 @@ Uma zona de cobrança é um agrupamento geográfico de regiões do Azure usado p
 
 ###### #24
 Você move algumas máquinas virtuais do Windows Server (VMS) de seu datacenter local para o Azure.
-O VMS local existente é licenciado pelo contrato ativo do Microsoft Software Assurance da sua empresa.
+O VMs local existente é licenciado pelo contrato ativo do Microsoft Software Assurance da sua empresa.
 Você precisa reduzir o custo de suas VMs do Azure.
+
 O que você deveria fazer?
 >Habilite a configuração do Benefício Híbrido do Azure.
 
@@ -215,21 +226,16 @@ Por que você faria essa recomendação?
 >Para aumentar os recursos locais fornecendo capacidade de estouro
 
 Explicação
-Ao implementar uma nuvem híbrida, sua empresa pode aumentar os recursos locais fornecendo overflow
-capacidade. Uma nuvem híbrida é a combinação de dois ou mais modelos de nuvem, como público e privado, e
-oferece benefícios de ambos os modelos. Ele pode dar às empresas a flexibilidade de usar recursos de nuvem pública quando
-eles precisam deles, ao mesmo tempo em que mantêm dados e aplicativos confidenciais no local em uma nuvem privada. Um híbrido
-A nuvem também pode ajudar as organizações a gerenciar picos e vales no tráfego com mais eficiência. Ao usar um híbrido
-modelo de nuvem, as empresas não precisam superprovisionar recursos de computação em antecipação à alta demanda;
-eles podem simplesmente trazer recursos extras da nuvem pública quando precisarem deles.
+Ao implementar uma nuvem híbrida, sua empresa pode aumentar os recursos locais fornecendo overflow capacidade. Uma nuvem híbrida é a combinação de dois ou mais modelos de nuvem, como público e privado, e oferece benefícios de ambos os modelos. Ele pode dar às empresas a flexibilidade de usar recursos de nuvem pública quando eles precisam deles, ao mesmo tempo em que mantêm dados e aplicativos confidenciais no local em uma nuvem privada. Um híbrido A nuvem também pode ajudar as organizações a gerenciar picos e vales no tráfego com mais eficiência. Ao usar um híbrido modelo de nuvem, as empresas não precisam superprovisionar recursos de computação em antecipação à alta demanda; eles podem simplesmente trazer recursos extras da nuvem pública quando precisarem deles.
 
 ---
 
 ###### #26
 Sua empresa usa os Blueprints do Azure para auxiliar na migração para o Azure. User1 deve ser capaz de atribuir blueprints publicados.
-Você precisa adicionar o usuário 1 à função de controle de acesso baseado em função (RBAC) necessária para fornecer essa permissão.
+Você precisa adicionar o User1 à função de controle de acesso baseado em função (RBAC) necessária para fornecer essa permissão.
 Sua solução deve seguir o princípio do menor privilégio.
-A qual função você deve atribuir Userl?
+
+A qual função você deve atribuir User1?
 >Operador de planta
 
 ---
@@ -238,10 +244,10 @@ A qual função você deve atribuir Userl?
 Para cada uma das seguintes declarações sobre o emparelhamento de rede virtual do Azure, selecione Sim se a declaração for verdadeiro. Caso contrário, selecione Não.
  
 O emparelhamento de rede virtual pode ser usado para conectar redes virtuais entre Regiões do Azure:
->sim
+>Sim
  
 O emparelhamento de rede virtual pode ser usado para transferir dados entre o Azure Locatários do Active Directory (Azure AD):
->sim
+>Sim
 
 A configuração do emparelhamento requer um curto tempo de inatividade para o virtual emparelhado Redes:
 >Não
@@ -263,33 +269,44 @@ Os Grupos de Segurança de Aplicativos (ASGs) permitem "organizar servidores sem
 ---
 
 ###### #30
-Você cria uma assinatura do Azure.
-Você precisa determinar quando deve usar ferramentas de gerenciamento específicas do Azure.
-Quando você deve usar cada ferramenta? Para responder, arraste a ferramenta apropriada para cada cenário. Uma ferramenta pode ser usada uma vez, mais de uma vez, ou nenhuma.
- 
-Você precisa fazer login no Azure com o seguinte cmdlet do seu laptop sem abrir manualmente um navegador da Web:
+Você cria uma assinatura do Azure. Você precisa determinar quando deve usar ferramentas de gerenciamento específicas do Azure.
+Quando você deve usar cada ferramenta?
+
+Para responder, arraste a ferramenta apropriada para cada cenário. Uma ferramenta pode ser usada uma vez, mais de uma vez, ou nenhuma.
+
+Você precisa fazer login no Azure com o seguinte comando do seu laptop sem abrir manualmente um navegador da Web:
 >Connect-AzAccount (Azure PowerShell)
 
 Você precisa fazer login no Azure com o seguinte comando do seu laptop sem manualmente abrindo um navegador da web:
 >az login (Azure CLI)
 
-Você deseja executar o seguinte cmdlet em um ambiente de script dentro do navegador:
+Você deseja executar o seguinte comando em um ambiente de script dentro do navegador:
 >Novo AzVm (Azure Cloud Shell)
 
 ---
 
 ###### #31
-Você implanta três máquinas virtuais (VMS) no Azure como uma arquitetura de três camadas. Uma VM hospeda um front-end aplicação web, uma VM hospeda uma interface de programação de aplicativos (API) de negócios e a outra VM hospeda um banco de dados Microsoft SQL Server. Apenas o aplicativo web front-end deve ser acessível publicamente e deve ser acessível por H T TP na porta 80. Todos os três VMS devem ser acessíveis pela Área de Trabalho Remota Protocol (RDP) na porta 222. Somente sua conta deve poder usar o RDP para acessar as VMs. 
+Você implanta três máquinas virtuais (VMS) no Azure como uma arquitetura de três camadas.
+- Uma VM hospeda um front-end aplicação web,
+- uma VM hospeda uma interface de programação de aplicativos (API) de negócios e a 
+- outra VM hospeda um banco de dados Microsoft SQL Server.
+
+Apenas o aplicativo web front-end deve ser acessível publicamente e deve ser acessível por HTTP na porta 80.
+Todos os três VMS devem ser acessíveis pela Área de Trabalho Remota Protocol (RDP) na porta 222.
+Somente sua conta deve poder usar o RDP para acessar as VMs. 
+
 Você precisa determinar como os grupos de segurança de rede (NSGs) podem ser usados nesse cenário.
 Quais são as duas maneiras pelas quais as regras NSG podem ser usadas? Cada resposta correta apresenta uma solução completa.
 >Para garantir que apenas a VM front-end seja acessível publicamente pela porta 80
 
->Para garantir que todos os três VMS sejam acessíveis pela porta 222
+>Para garantir que todos os três VMs sejam acessíveis pela porta 222
 
 ---
 
 ###### #32
-Para melhorar o desempenho de um aplicativo de missão crítica, sua organização implementou a nuvem estourando. Qual declaração descreve o benefício que o cloud bursting oferece?
+Para melhorar o desempenho de um aplicativo de missão crítica, sua organização implementou a nuvem estourando.
+
+Qual declaração descreve o benefício que o cloud bursting oferece?
 >Os recursos baseados em nuvem são provisionados quando os servidores locais atingem 100% dos recursos capacidade.
 
 ---
@@ -298,7 +315,7 @@ Para melhorar o desempenho de um aplicativo de missão crítica, sua organizaç�
 Para cada uma das seguintes declarações sobre a rede do Azure, selecione Sim se a declaração for verdadeira. Caso contrário, selecione Não.
 
 O tráfego do ExpressRoute é roteado por meio de uma conexão privada:
->sim
+>Sim
 
 O tráfego entre redes virtuais emparelhadas (VNets) é roteado pela Internet pública:
 >Não
@@ -309,18 +326,17 @@ Uma VNet é criada no escopo de uma região:
 ---
 
 ###### #34
-Identifique quais declarações descrevem com precisão Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS),
-e Infraestrutura como Serviço (laaS).
+Identifique quais declarações descrevem com precisão Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS), e Infraestrutura como Serviço (IaaS).
 Para cada uma das seguintes afirmações, selecione Sim se a afirmação for verdadeira. Caso contrário, selecione Não.
 
-O provedor de serviços é responsável por todo o hardware de infraestrutura em SaaS, PaaS e LaaS:
->sim
+O provedor de serviços é responsável por todo o hardware de infraestrutura em SaaS, PaaS e IaaS:
+>Sim
  
 Criar uma máquina virtual (VM) executando o Windows Server 2016 é um exemplo de PaaS:
->não
+>Não
  
 O SaaS oferece uma maneira de fornecer aos usuários acesso a aplicativos sofisticados em um ambiente de pagamento conforme o uso:
->sim
+>Sim
 
 ---
 
@@ -357,8 +373,7 @@ Para completar a frase, selecione a opção apropriada no menu suspenso.
 ###### #38
 Corresponda cada metodologia do Azure Cloud Adoption Framework (CAF) com sua descrição.
 
-Para responder, arraste a metodologia apropriada para cada descrição. Uma metodologia pode ser usada uma vez, mais
-mais de uma vez, ou não.
+Para responder, arraste a metodologia apropriada para cada descrição. Uma metodologia pode ser usada uma vez, mais de uma vez, ou não.
 
 Defina a justificativa do negócio e os resultados esperados da adoção:
 >Estratégia
@@ -370,7 +385,7 @@ Prepare o ambiente de nuvem para as mudanças planejadas:
 >Pronto
  
 Desenvolva novas soluções nativas da nuvem ou híbridas: 
->inove
+>Inove
 
 ---
 
@@ -382,7 +397,10 @@ Para completar a frase, selecione a opção apropriada no menu suspenso.
 ---
 
 ###### #40
-Você gerencia uma equipe de desenvolvimento que precisa concentrar todos os seus esforços na criação e manutenção do código do aplicativo. Sua equipe não tem recursos para provisionar e dimensionar a infraestrutura de seus aplicativos requerem para correr. O que você deveria fazer?
+Você gerencia uma equipe de desenvolvimento que precisa concentrar todos os seus esforços na criação e manutenção do código do aplicativo.
+Sua equipe não tem recursos para provisionar e dimensionar a infraestrutura de seus aplicativos requerem para rodar.
+
+O que você deveria fazer?
 >Crie uma assinatura do Azure Functions e carregue seu código.
 
 ---
@@ -400,13 +418,13 @@ Você precisa entender as opções de monitoramento do Azure.
 Qual recurso de monitoramento você deve usar para cada cenário? Para responder, arraste o recurso apropriado para cada cenário. Um recurso pode ser usado uma vez, mais de uma vez ou não ser usado.
 
 Você quer saber quantas vezes seu aplicativo da web ficou indisponível durante o mês passado:
->histórico de saúde
+>Histórico de saúde
  
 Você deseja que você e os membros de sua equipe recebam uma mensagem de texto quando a manutenção do Azure estiver planejada:
->alertas de integridade
+>Alertas de integridade
 
 Você deseja exibir os recursos do Azure que estão planejados para serem preteridos:
->avisos de saúde
+>Avisos de saúde
 
 ---
 
@@ -422,18 +440,19 @@ Um servidor de autenticação multifator do Azure (MFA) é necessário "para aut
 Para cada uma das seguintes declarações sobre os Arquivos do Azure, selecione Sim se a declaração for verdadeira. Caso contrário, selecione Não.
 
 Os arquivos do Azure podem ser acessados usando o protocolo SMB (Server Message Block):
->sim
+>Sim
 
 Os Arquivos do Azure podem ser acessados usando o Arquivo de Rede Protocolo do sistema (NFS):
->sim
+>Sim
 
 Uma assinatura de acesso compartilhado (SAS) é necessária para acessar os Arquivos do Azure:
->não
+>Não
 
 ---
 
 ###### #45
-Quais duas soluções você deve usar para transferir um disco rígido virtual (VHD) local para o Azure? Cada resposta correta apresenta uma solução completa.
+Quais duas soluções você deve usar para transferir um disco rígido virtual (VHD) local para o Azure?
+Cada resposta correta apresenta uma solução completa.
 
 >AzCopyName
 
@@ -449,16 +468,16 @@ Você precisa identificar os recursos de segurança fornecidos por meio do Micro
 Para cada uma das seguintes afirmações, selecione Sim se a afirmação for verdadeira. Caso contrário, selecione Não.
 
 O Microsoft Defender for Cloud oferece suporte ao monitoramento, segurança recomendações e proteção avançada contra ameaças para recursos de máquina virtual (VM) na nuvem e local:
->sim
+>Sim
 
 O Microsoft Defender for Cloud fornece integração nativa com o Microsoft Defender Antivirus no Windows:
->sim
+>Sim
 
 O suporte do Microsoft Defender for Cloud está limitado ao Windows operacional apenas sistemas:
->não
+>Não
 
 O Microsoft Defender for Cloud pode descobrir e avaliar automaticamente a segurança de novos recursos do Azure à medida que são implantados:
->sim
+>Sim
 
 ---
 
@@ -471,7 +490,7 @@ Uma Iniciativa do Azure "é uma coleção de políticas do Azure direcionadas pa
 ---
 
 ###### #48
-Você está planejando usar o Azure para a infraestrutura de nuvem da sua empresa. Você acabou de saber que o Azure oferece suporte a ofertas de software como serviço (SaaS), plataforma como serviço (PaaS) e infraestrutura como serviço (laaS).
+Você está planejando usar o Azure para a infraestrutura de nuvem da sua empresa. Você acabou de saber que o Azure oferece suporte a ofertas de software como serviço (SaaS), plataforma como serviço (PaaS) e infraestrutura como serviço (IaaS).
 
 Você precisa determinar os recursos que estão disponíveis para cada categoria.
 Qual recurso cada tipo de infraestrutura disponibiliza? Para responder, selecione o recursos dos menus suspensos.
@@ -480,4 +499,4 @@ Qual recurso cada tipo de infraestrutura disponibiliza? Para responder, selecion
 
 >PaaS: Banco de Dados SQL do Azure
 
->LaaS: Máquina Virtual (VM)
+>IaaS: Máquina Virtual (VM)
