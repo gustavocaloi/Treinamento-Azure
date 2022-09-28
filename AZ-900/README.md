@@ -1,14 +1,22 @@
 # Microsoft Certified Azure Fundamentals - AZ-900
 ##Pratic PT-BR
 
-###### Pergunta
+####Habilidades medidas
+A versão em inglês deste exame foi atualizada em 5 de maio de 2022. Baixe o guia de estudo na caixa "Dica" anterior para obter mais detalhes sobre as habilidades medidas neste exame.
+- Descrever os conceitos da nuvem (25 a 30%)
+- Descrever a arquitetura e os serviços do Azure (35 a 40%)
+- Descrever o gerenciamento e a governança do Azure (30 a 35%)
+
+---
+
+###### #1
 Uma empresa deseja expandir sua presença na nuvem implantando recursos adicionais no Azure. A empresa planeja usar o modelo baseado em recursos existentes para automatizar o processo de implantação. Garantir uma implantação consistente é fundamental.
 O que a empresa deve usar?
 >Resposta: Gerenciador de recursos do Azure
 
 ---
 
-###### Pergunta
+###### #2
 Corresponda cada recurso do Azure com seu cenário de uso.
 para responder, arraste o recurso apropriado para cada cenário. Um recurso pode ser usado uma vez, mais de uma vez ou não ser usado.
 
@@ -20,42 +28,42 @@ para responder, arraste o recurso apropriado para cada cenário. Um recurso pode
 
 ---
 
-###### Pergunta
+###### #3
 Qual é a vantagem de migrar a infraestrutura da sua empresa para o Azure usando um modelo de implantação de nuvem pública?
 
 >A empresa é capaz de expandir conforme necessário, sem necessidade de despesas de capital (CapEx).
 
 ---
 
-###### Pergunta
+###### #4
 Para completar a declaração na área de resposta, selecione a opção apropriada no menu suspenso.
 >O Azure Advisor integra-se com a ajuda superior do "Microsoft Defender for cloud" para prevenir, detectar e responder a ameaças aos recursos do Azure.
 
 ---
-###### Pergunta
+###### #5
 Para completar a declaração na área de resposta, selecione a opção apropriada no menu suspenso.
 >Você usa o Gerenciamento de Custos e Faturamento do Azure para criar relatórios de custo. Para entender os dados em um relatório de custos, a Microsoft recomenda que você implemente "tags".
 
 ---
 
-###### Pergunta
+###### #6
 Qual serviço do Azure pode usar o dimensionamento automático para adicionar ou remover recursos conforme apropriado para minimizar custos e garantir níveis ideais de desempenho?
 >Monitor do Azure
 
 ---
-###### Pergunta
+###### #7
 Qual recurso do Azure Monitor permite que você analise visualmente os dados de telemetria?
 >Insights do aplicativo
 
 ---
 
-###### Pergunta
+###### #8
 Qual é o período máximo de tempo que você pode usar os créditos de uma assinatura gratuita do Azure antes que ela expire?
 >30 dias
 
 ---
 
-###### Pergunta
+###### #9
 Você está planejando usar o Azure para uma solução de nuvem.
 Você precisa escolher a ferramenta mais adequada para diferentes cenários.
 Quais ferramentas você deve usar? Para responder, arraste a ferramenta apropriada para cada cenário. Uma ferramenta pode ser usada uma vez, mais de uma vez ou não.
@@ -68,26 +76,26 @@ Quais ferramentas você deve usar? Para responder, arraste a ferramenta apropria
 
 ---
 
-###### Pergunta
+###### #10
 Você precisa comparar os custos de execução de uma carga de trabalho de aplicativo no Azure vesus on-primeses.
 O que você deve fazer para garantir que possa usar a calculadora de TCO do Azure para concluir essa tarefa?
 >Defina o servidor, bancos de dados, armazenamento e carga de trabalho de rede.
 
 ---
 
-###### Pergunta
+###### #11
 Qual recurso do Azure pode ser implantado como infraestrutura como serviço (IaaS)?
 >Máquina virtual (VM)
 
 ---
 
-###### Pergunta
+###### #12
 Os grupos de gerenciamento permitem que você organize vários
 >Os grupos de gerenciamento permitem que você organize várias "assinaturas como uma única entidade de gerenciamento para facilitar o gerenciamento".
 
 ---
 
-###### Pergunta
+###### #13
 Incorre em penalidades por dados excluídos em 30 dias: legal
 >Não está disponível no nível da conta: Arquivar
 
@@ -95,13 +103,13 @@ Incorre em penalidades por dados excluídos em 30 dias: legal
 
 ---
 
-###### Pergunta
+###### #14
 Com a "computação sem servidor", os desenvolvedores implantam código e pagam apenas pelo tempo de execução, sem se preocupar com o provisionamento, configuração e gerenciamento da infraestrutura subjacente.
 >"computação sem servidor"
 
 ---
 
-###### Pergunta
+###### #15
 Você deseja avaliar as máquinas virtuais (VMs) do Azure por 18 meses:
 >Pay-As-You-Go
 
@@ -113,7 +121,7 @@ Você deseja avaliar os Serviços de Aplicativo do Azure por seis meses:
 
 ---
 
-###### Pergunta
+###### #16
 Você deseja controlar os usuários que têm permissão para criar redes virtuais (Vnets):
 >RBAC
 
@@ -125,14 +133,14 @@ Você deseja impedir que máquinas virtuais (VMs) sejam implantadas em uma assin
 
 ---
 
-###### Pergunta
+###### #17
 Você gerencia uma assinatura do Azure para sua empresa. Em uma reunião, alguém pergunta sobre a calculadora de preços do Azure.
 Para que serve o preço do Azure?
 >Estimando os custos mensais associados ao uso de recursos específicos do Azure
 
 ---
 
-###### Pergunta
+###### #18
 Quais são os dois exemplos que melhor descrevem a autenticação multifator (MFA)? Cada resposta correta apresenta uma solução completa.
 
 >Você insere seu cartão de débito em um caixa eletrônico e, em seguida, insere seu número de identificação pessoal (PIN) para acessar sua conta.
@@ -141,14 +149,14 @@ Quais são os dois exemplos que melhor descrevem a autenticação multifator (MF
 
 ---
 
-###### Pergunta
+###### #19
 Você concluiu a migração dos principais servidores e processos de sua organização para máquinas virtuais baseadas em nuvem. Seu projeto final envolve a migração de uma tarefa semanal de processamento em lote que depende de drivers do sistema operacional para imprimir relatórios em PDF.
 Você precisa atender a esse requisito enquanto minimiza os custos.
 >Execute a tarefa de processamento em lote usando instâncias spot
 
 ---
 
-###### Pergunta
+###### #20
 Você implanta uma solução crítica de negócios no Azure.
 Você precisa garantir que seus recursos sejam replicados e hospedados a pelo menos 200 milhas de distância dentro da mesma área geográfica, para minimizar o impacto na disponibilidade de suas soluções em caso de desastre.
 Qual opção de configuração você deve usar?
@@ -156,7 +164,7 @@ Qual opção de configuração você deve usar?
 
 ---
 
-###### Pergunta
+###### #21
 O suporte à autenticação e autorização do Azure AD requer integração com um AD local:
 >Não
 
@@ -168,7 +176,7 @@ O Azure AD dá suporte à autorização por meio do uso de controle de acesso ba
 
 ---
 
-###### Pergunta
+###### #22
 Você precisa identificar recursos de grupos de recursos.
 Para cada uma das seguintes afirmações, selecione SIM se a afirmação for verdadeira. Caso contrário, selecione NÃO.
 
@@ -186,13 +194,13 @@ Os recursos podem interagir com outros recursos em um grupo de recursos diferent
 
 ---
 
-###### Pergunta
+###### #23
 Uma zona de cobrança é um agrupamento geográfico de regiões do Azure usado para determinar a cobrança com base em "transferências de dados".
 >transferências de dados
 
 ---
 
-###### Pergunta
+###### #24
 Você move algumas máquinas virtuais do Windows Server (VMS) de seu datacenter local para o Azure.
 O VMS local existente é licenciado pelo contrato ativo do Microsoft Software Assurance da sua empresa.
 Você precisa reduzir o custo de suas VMs do Azure.
@@ -201,7 +209,7 @@ O que você deveria fazer?
 
 ---
 
-###### Pergunta
+###### #25
 Sua empresa planeja migrar aplicativos e serviços para a nuvem. Você recomenda que uma nuvem híbrida seja implantada.
 Por que você faria essa recomendação?
 >Para aumentar os recursos locais fornecendo capacidade de estouro
@@ -217,7 +225,7 @@ eles podem simplesmente trazer recursos extras da nuvem pública quando precisar
 
 ---
 
-###### Pergunta
+###### #26
 Sua empresa usa os Blueprints do Azure para auxiliar na migração para o Azure. User1 deve ser capaz de atribuir blueprints publicados.
 Você precisa adicionar o usuário 1 à função de controle de acesso baseado em função (RBAC) necessária para fornecer essa permissão.
 Sua solução deve seguir o princípio do menor privilégio.
@@ -226,7 +234,7 @@ A qual função você deve atribuir Userl?
 
 ---
 
-###### Pergunta
+###### #27
 Para cada uma das seguintes declarações sobre o emparelhamento de rede virtual do Azure, selecione Sim se a declaração for verdadeiro. Caso contrário, selecione Não.
  
 O emparelhamento de rede virtual pode ser usado para conectar redes virtuais entre Regiões do Azure:
@@ -240,21 +248,21 @@ A configuração do emparelhamento requer um curto tempo de inatividade para o v
 
 ---
 
-###### Pergunta
+###### #28
 Para completar a declaração na área de resposta, selecione a opção apropriada no menu suspenso.
 Uma conta de armazenamento "padrão de uso geral v2" dá suporte aos serviços Blob, Queue e Table Storage.
 >"padrão de uso geral v2"
 
 ---
 
-###### Pergunta
+###### #29
 Para completar a declaração na área de resposta, selecione a opção apropriada no menu suspenso.
 Os Grupos de Segurança de Aplicativos (ASGs) permitem "organizar servidores semelhantes para que você possa definir e implementar facilmente políticas de segurança com base nesses grupos".
 >"organizar servidores semelhantes para que você possa definir e implementar facilmente políticas de segurança com base nesses grupos"
 
 ---
 
-###### Pergunta
+###### #30
 Você cria uma assinatura do Azure.
 Você precisa determinar quando deve usar ferramentas de gerenciamento específicas do Azure.
 Quando você deve usar cada ferramenta? Para responder, arraste a ferramenta apropriada para cada cenário. Uma ferramenta pode ser usada uma vez, mais de uma vez, ou nenhuma.
@@ -270,7 +278,7 @@ Você deseja executar o seguinte cmdlet em um ambiente de script dentro do naveg
 
 ---
 
-###### Pergunta
+###### #31
 Você implanta três máquinas virtuais (VMS) no Azure como uma arquitetura de três camadas. Uma VM hospeda um front-end aplicação web, uma VM hospeda uma interface de programação de aplicativos (API) de negócios e a outra VM hospeda um banco de dados Microsoft SQL Server. Apenas o aplicativo web front-end deve ser acessível publicamente e deve ser acessível por H T TP na porta 80. Todos os três VMS devem ser acessíveis pela Área de Trabalho Remota Protocol (RDP) na porta 222. Somente sua conta deve poder usar o RDP para acessar as VMs. 
 Você precisa determinar como os grupos de segurança de rede (NSGs) podem ser usados nesse cenário.
 Quais são as duas maneiras pelas quais as regras NSG podem ser usadas? Cada resposta correta apresenta uma solução completa.
@@ -280,13 +288,13 @@ Quais são as duas maneiras pelas quais as regras NSG podem ser usadas? Cada res
 
 ---
 
-###### Pergunta
+###### #32
 Para melhorar o desempenho de um aplicativo de missão crítica, sua organização implementou a nuvem estourando. Qual declaração descreve o benefício que o cloud bursting oferece?
 >Os recursos baseados em nuvem são provisionados quando os servidores locais atingem 100% dos recursos capacidade.
 
 ---
 
-###### Pergunta
+###### #33
 Para cada uma das seguintes declarações sobre a rede do Azure, selecione Sim se a declaração for verdadeira. Caso contrário, selecione Não.
 
 O tráfego do ExpressRoute é roteado por meio de uma conexão privada:
@@ -300,7 +308,7 @@ Uma VNet é criada no escopo de uma região:
 
 ---
 
-###### Pergunta
+###### #34
 Identifique quais declarações descrevem com precisão Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS),
 e Infraestrutura como Serviço (laaS).
 Para cada uma das seguintes afirmações, selecione Sim se a afirmação for verdadeira. Caso contrário, selecione Não.
@@ -316,7 +324,7 @@ O SaaS oferece uma maneira de fornecer aos usuários acesso a aplicativos sofist
 
 ---
 
-###### Pergunta
+###### #35
 Sua empresa está planejando uma implantação de nuvem do Azure que deve atender aos seguintes requisitos:
 
 - Melhore a continuidade de aplicativos críticos para os negócios
@@ -330,7 +338,7 @@ Qual ferramenta você deveria usar? Para responder, clique na opção apropriada
 
 ---
 
-###### Pergunta
+###### #36
 Você é um engenheiro de nuvem para uma empresa de varejo. Você precisa decidir se deseja usar uma nuvem pública ou privada.
  
 Qual é a vantagem de usar uma nuvem pública sobre uma nuvem privada?
@@ -338,7 +346,7 @@ Qual é a vantagem de usar uma nuvem pública sobre uma nuvem privada?
 
 ---
 
-###### Pergunta
+###### #37
 Para completar a frase, selecione a opção apropriada no menu suspenso.
 
 "Computação em nuvem" é a entrega de serviços de computação, como poder de computação, armazenamento, software e análise pela Internet.
@@ -346,7 +354,7 @@ Para completar a frase, selecione a opção apropriada no menu suspenso.
 
 ---
 
-###### Pergunta
+###### #38
 Corresponda cada metodologia do Azure Cloud Adoption Framework (CAF) com sua descrição.
 
 Para responder, arraste a metodologia apropriada para cada descrição. Uma metodologia pode ser usada uma vez, mais
@@ -366,27 +374,27 @@ Desenvolva novas soluções nativas da nuvem ou híbridas:
 
 ---
 
-###### Pergunta
+###### #39
 Para completar a frase, selecione a opção apropriada no menu suspenso.
 "Disaster Recovery" é a capacidade de restaurar um serviço de nuvem após uma perda catastrófica.
 >"Disaster Recovery"
  
 ---
 
-###### Pergunta
+###### #40
 Você gerencia uma equipe de desenvolvimento que precisa concentrar todos os seus esforços na criação e manutenção do código do aplicativo. Sua equipe não tem recursos para provisionar e dimensionar a infraestrutura de seus aplicativos requerem para correr. O que você deveria fazer?
 >Crie uma assinatura do Azure Functions e carregue seu código.
 
 ---
 
-###### Pergunta
+###### #41
 Para completar a frase, selecione a opção apropriada no menu suspenso.
 Com "Single Sign-on (SSO)", os usuários podem acessar todos os aplicativos necessários sem precisar autenticar uma segunda vez.
 >"Single Sign-on (SSO)"
  
 ---
 
-###### Pergunta
+###### #42
 Você precisa entender as opções de monitoramento do Azure.
 
 Qual recurso de monitoramento você deve usar para cada cenário? Para responder, arraste o recurso apropriado para cada cenário. Um recurso pode ser usado uma vez, mais de uma vez ou não ser usado.
@@ -402,7 +410,7 @@ Você deseja exibir os recursos do Azure que estão planejados para serem preter
 
 ---
 
-###### Pergunta
+###### #43
 Para completar a declaração na área de resposta, selecione a opção apropriada no menu suspenso.
 
 Um servidor de autenticação multifator do Azure (MFA) é necessário "para autenticação ao dar suporte a usuários localizados apenas no Active Directory (AD) local".
@@ -410,7 +418,7 @@ Um servidor de autenticação multifator do Azure (MFA) é necessário "para aut
 
 ---
 
-###### Pergunta
+###### #44
 Para cada uma das seguintes declarações sobre os Arquivos do Azure, selecione Sim se a declaração for verdadeira. Caso contrário, selecione Não.
 
 Os arquivos do Azure podem ser acessados usando o protocolo SMB (Server Message Block):
@@ -424,7 +432,7 @@ Uma assinatura de acesso compartilhado (SAS) é necessária para acessar os Arqu
 
 ---
 
-###### Pergunta
+###### #45
 Quais duas soluções você deve usar para transferir um disco rígido virtual (VHD) local para o Azure? Cada resposta correta apresenta uma solução completa.
 
 >AzCopyName
@@ -433,7 +441,7 @@ Quais duas soluções você deve usar para transferir um disco rígido virtual (
 
 ---
 
-###### Pergunta
+###### #46
 Uma empresa está revisando a segurança para máquinas virtuais (VMS) implantadas em sua nuvem híbrida.
 
 Você precisa identificar os recursos de segurança fornecidos por meio do Microsoft Defender for Cloud.
@@ -454,7 +462,7 @@ O Microsoft Defender for Cloud pode descobrir e avaliar automaticamente a segura
 
 ---
 
-###### Pergunta
+###### #47
 Para completar a declaração na área de resposta, selecione a opção apropriada no menu suspenso.
 
 Uma Iniciativa do Azure "é uma coleção de políticas do Azure direcionadas para atingir uma única meta geral".
@@ -462,7 +470,7 @@ Uma Iniciativa do Azure "é uma coleção de políticas do Azure direcionadas pa
 
 ---
 
-###### Pergunta
+###### #48
 Você está planejando usar o Azure para a infraestrutura de nuvem da sua empresa. Você acabou de saber que o Azure oferece suporte a ofertas de software como serviço (SaaS), plataforma como serviço (PaaS) e infraestrutura como serviço (laaS).
 
 Você precisa determinar os recursos que estão disponíveis para cada categoria.
